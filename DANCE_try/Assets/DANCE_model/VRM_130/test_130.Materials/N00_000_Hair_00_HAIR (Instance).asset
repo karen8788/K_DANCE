@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: N00_000_Hair_00_HAIR (Instance)
+  m_Shader: {fileID: 4800000, guid: 1a97144e4ad27a04aafd70f7b915cedb, type: 3}
+  m_Parent: {fileID: 2100000, guid: e5c1901de43721b46adf4a20bab11da7, type: 2}
+  m_ModifiedSerializedProperties: 16
+  m_ValidKeywords:
+  - _ALPHATEST_ON
+  - _NORMALMAP
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+  stringTagMap:
+    RenderType: TransparentCutout
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 0f0aee9f0f5e5e840a34cc6b44205a84, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 2800000, guid: d347f0a907c34034eb229d7f090d7db8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 785d7b471a1d5e24d8f18328369d396a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ShadeTexture:
+        m_Texture: {fileID: 2800000, guid: 785d7b471a1d5e24d8f18328369d396a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BlendMode: 1
+    - _DstBlend: 0
+    - _OutlineScaledMaxDistance: 4.34
+    - _ShadeShift: -0.8
+    - _SrcBlend: 1
+    - _ZWrite: 1
+    m_Colors:
+    - _EmissionColor: {r: 0.8863248, g: 0.8076711, b: 0.48406965, a: 1}
+    - _OutlineColor: {r: 0.27450973, g: 0.09019599, b: 0.1254901, a: 1}
+    - _RimColor: {r: 0.2966667, g: 0.2966667, b: 0.2966667, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
