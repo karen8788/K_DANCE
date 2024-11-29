@@ -27,15 +27,15 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 09731157a4b681d4e8e051309cebf55d, type: 3}
+        m_Texture: {fileID: 2800000, guid: df5060520115cf24380a033c1c527b3d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
-        m_Texture: {fileID: 2800000, guid: a923fe9bf374b0441ad77c729a548cb6, type: 3}
+        m_Texture: {fileID: 2800000, guid: f5055ce8e060ce544b99c78f84295e11, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: cd24de5ba3d36c94d8e7be7fbf232c0f, type: 3}
+        m_Texture: {fileID: 2800000, guid: e5e1d3e9e5022aa45a032f8ad0d128fd, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OutlineWidthTexture:
@@ -51,7 +51,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ShadeTexture:
-        m_Texture: {fileID: 2800000, guid: cd24de5ba3d36c94d8e7be7fbf232c0f, type: 3}
+        m_Texture: {fileID: 2800000, guid: e5e1d3e9e5022aa45a032f8ad0d128fd, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ShadingGradeTexture:
@@ -59,7 +59,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SphereAdd:
-        m_Texture: {fileID: 2800000, guid: eddf65222ce2bfb4c9a5b151f0871cba, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2e3db818c0133d343b58d30f396b925e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _UvAnimMaskTexture:
